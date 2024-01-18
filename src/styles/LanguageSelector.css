@@ -1,0 +1,31 @@
+/*** LANGUAGE SELECTOR STYLE ***/
+.languageSelector{
+    background-color: #FFE9E9;
+    padding: 0.5rem;
+}
+/*** Style languages ***/
+.languageSelector__lng{    
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 1rem;
+
+    color: #fff;
+    background-color: #FFE9E9;
+    border-radius: 10px;
+    border: 2px solid #DBD4FA;
+    
+    padding: 0 0.5rem;
+    margin : 0 0.2rem;
+
+    transition-duration: 0.5s;
+}
+.languageSelector__lng:hover{
+    font-size: 1.1rem;
+
+    color: #DBD4FA;
+    border: 3px solid #fff;
+    
+    cursor: pointer;
+    transition-duration: 0.5s;
+}    

@@ -1,0 +1,118 @@
+@media only screen and (max-width: 600px) {
+    body{
+        font-size: 9px;
+    }
+  }
+
+
+
+.presentation{
+    padding: 20px;
+}
+.presentation__title{
+    font-size: 2rem;
+    font-family: 'Over the Rainbow', cursive;
+    color: #CD7E91;
+    font-weight: 700;
+    margin: 0.5rem;
+}
+.presentation__part-title{
+    font-size: 1.5rem;
+    font-family: 'Over the Rainbow', cursive;
+    color: #755b9a;
+    font-weight: 700;
+    margin: 1.5rem;
+    text-decoration: #CD7E91 wavy underline;
+}
+.presentation__container{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.presentation__person--switch{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Demoiselles et garçons d'honneurs */
+.presentation__person{
+    margin: 10px;
+    width: 400px;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.presentation__person--switch{
+    width: 275px;
+    min-height: 400px;
+}
+.without-desc{
+    width: 300px;
+}
+.presentation__person--name{
+    color: #755b9a;
+    font-weight: 700;
+    font-family: 'Over the Rainbow', cursive;
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+.presentation__person--description{
+    padding: 0 2.5rem;
+    text-align: justify;
+}
+.presentation__person--img{
+    margin-top: 1.5rem;
+    height: 220px;
+    width: 200px;
+    object-fit:cover;
+    border: 5px solid #e1dce9;
+    border-radius: 20px;
+    filter: sepia(0.5);
+    transition-duration: 0.5s;
+}
+.presentation__person--img:hover{
+    
+    filter: sepia(0);
+    transition-duration: 0.5s;
+}
+.presentation__person--description{
+    text-align: center;
+    color: #202122;
+    font-size: 1rem;
+    margin: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+/* MAitre de cérémonie */
+.presentation__container--switch>.presentation__person{
+    justify-content: center;
+}
+.presentation__container--switch .presentation__person--img{
+    height: 280px;
+    width: 250px;
+}
+.presentation__container--switch .presentation__person--name{
+    font-size: 2rem;
+}
+.presentation__container--switch .presentation__person--description{
+    font-size: 1.2rem;
+    text-align: justify;
+}
+.first{
+    width: 50%;
+    padding: 1rem;
+}
+
+.presentation__person--role{
+    font-size: 1.2rem;
+    color: #CD7E91;
+    font-family: 'Over the Rainbow', cursive;
+    margin-top: 0.5rem;
+}

@@ -1,0 +1,65 @@
+.schedule{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.schedule__title{
+    font-size: 2.5rem;
+    font-family: 'Over the Rainbow', cursive;
+    color: #CD7E91;
+    font-weight: 600;
+}
+.schedule__underTitle{
+    font-size: 1.5rem;
+    font-family: 'Over the Rainbow', cursive;
+    color: #A196CF;
+    font-weight: 400;
+    margin: 1rem;
+    margin-top: 1.5rem;
+}
+
+.timeline{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.time{
+    margin: 10px;
+}
+.menu__choice{
+    margin: 10px;
+}
+.schedule__description{
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;
+    color: #393a3b;
+    margin-bottom: 1rem;
+}
+
+.menu__partTitle{
+    font-size: 1.3rem;
+    font-family: 'Over the Rainbow', cursive;
+    color: #A196CF;
+    font-weight: 400;
+    margin: 1rem;
+    padding: 10px 0px;
+    text-decoration: underline wavy #CD7E91;
+}
+.schedule__menu{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.menu__part{
+    max-width: 30%;
+    min-width: 25%;
+    padding: 1%;
+    
+}
+.menu__part:hover{
+    background-color: #c9c3e0;
+}

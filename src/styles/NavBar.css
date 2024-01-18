@@ -1,0 +1,44 @@
+/*** NAVBAR STYLE ***/
+.navbar{
+    display: flex;
+    align-items :center;
+    flex-direction: row;
+    justify-content: space-between;
+    padding : 0 0.5em;
+    background-color: #FFE9E9;
+    margin-bottom: 1px;
+}
+.navbar-onglets{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+/*** Style logo & multilangue ***/
+.navbar__left-side{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar__logo{
+    width : 50px;
+    height : 50px;
+}
+
+/*** Style onglets ***/
+.navbar-onglets__element{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Montserrat, sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #CD7E91;
+    margin: 4px;
+    transition-duration: 0.5s;
+}
+.navbar-onglets__element:hover{
+    font-size: 1.1rem;
+    color: #fff;
+    transition-duration: 0.5s;
+}

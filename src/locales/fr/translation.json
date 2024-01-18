@@ -1,0 +1,319 @@
+{
+    "Navbar": {
+        "Home": "Accueil",
+        "Schedule": "Programme",
+        "BridesmaidGroosmen": "Acteurs",
+        "Transport": "Transports",
+        "RSVP": "RSVP",
+        "FAQ": "FAQ"
+    },
+    "Home": {
+        "Title": "Célébrons ensemble notre union",
+        "Information": {
+            "Date": "Date : Samedi 13 juillet 2024",
+            "IntituleLieu": "Lieu : ",
+            "IntituleAdresse": "Adresse : ",
+            "RSVP": {
+                "Title": "Participez à l'événement",
+                "FirstParagraph": "Veuillez confirmer votre participation en cliquant sur le lien suivant avant le 01 mai 2024. Dans l’absence d'une réponse de votre part, nous serons dans le regret de fêter sans vous. ",
+                "SecondParagraph": "A noter que les personnes qui n’ont pas reçu d'invitations, ne sont pas invitées. Aucun invité ne sera rajouté le jour du mariage. ",
+                "Button": "Confirmer ma venue"
+            }
+        },
+        "LoveStory": {
+            "Title": " Notre histoire ",
+            "PremiereRencontre": {
+                "Title": "Notre première rencontre",
+                "FirstParagraph": "Après avoir matché sur Tinder, Vincent et Céline ont décidé de se retrouver au Parc Lafontaine en mai 2021."
+            },
+            "PremierDate": {
+                "Title": "Notre premier rendez-vous galant",
+                "FirstParagraph": "Deux jours plus tard, Vincent a invité Céline sur son roof top pour manger une bonne planche de charcuterie et de la glace.",
+                "SecondParagraph": "C'est à ce moment qu'elle a su que c'était le bon."
+            },
+            "EvenementMarquant": {
+                "Title": "Evenement marquant",
+                "FirstParagraph": "Adoption des bunnies Simba & Mushi !!!"
+            },
+            "DemandeMariage": {
+                "Title": "La demande en mariage",
+                "FirstParagraph": "Octobre 2023. C'est pour ça qu'on est là !!!"
+            }
+        },
+        "About": {
+            "VincentPresentation": {
+                "Title": "Un peu plus sur Vincent",
+                "FirstParagraphTitle": "Il aime : ",
+                "FirstParagraph": "Le spike, les jeux vidéos, faire de la musique mettre des short de bain l'été et des jogging l’hiver.",
+                "SecondParagraphTitle": "Ce qu’il aime chez Celine : ",
+                "SecondParagraph": "Sa tendresse, son sourire, quand elle lui fait la cuisine."
+            },
+            "CelinePresentation": {
+                "Title": "Un peu plus sur Céline",
+                "FirstParagraphTitle": "Elle aime : ",
+                "FirstParagraph": "L’eau,la boxe et les lapins. Attention, elle peut parler de ces sujets pendant des heures.",
+                "SecondParagraphTitle": "Ce qu’elle aime chez Vincent : ",
+                "SecondParagraph": "Sa gentillesse, son humour, son intelligence, son odeur."
+            }
+        }
+    },
+    "Programme":{
+        "Title" : "Programme",
+        "UnderTitle" : "A quoi s'attendre ?",
+        "Programmation" :
+        {
+            "Arrival" : "Arrivée des invités",
+            "Ceremonie" : "Cérémonie",
+            "VinHonneur" : "Bouchée et cocktail & Live musique - Séance Photo avec Mariés",
+            "Jeux" : "Quizz & Jeux avec les Mariés",
+            "Repas" : "Repas",
+            "Spectacle" : "Spectacle",
+            "Musique" : "DJ Megan & DJ Rim",
+            "Danse" : "Gâteau & Dancefloor",
+            "Depart" : "Départ de tout le monde - Wedding Favor"
+        },
+        "Menu" :
+        {
+            "MenuTitle" : "Qu'est ce que l'on mange ?",
+            "DescriptionChoix" : "Vous pouvez choisir une entrée et un plat de résistance avec son accompagnement",
+            "ButtonName" : "Confirmer mon menu",
+            "Cocktail":
+            {
+                "Title" : "Cocktail",
+                "Choix1" : "Toast de pain russe, gravlax de saumon à la vodka",
+                "Choix2": "Parfait de foie gras, kumquat confit , palmier feuilleté",
+                "Choix3": "Tartelette wonton, mousse de dehl, chutney de mangue, chips de kale",
+                "Choix4": "Financier courgette et romarin, mousse de chèvre et poivrons rôtis"
+            },
+            "Entree" :
+            {
+                "Title" : "Entrée",
+                "Choix1" : "Gaspacho pois verts menthe,chantilly fromage de chèvre, pois sucrée, pousses pois,graines citrouille rôties",
+                "Choix2" : "Crème de courge musquée au cari et lait de coco, garnitures de pois chiches rôtis,pousses, peluches de coriandre"
+            },
+            "Plat" :
+            {
+                "Title" : "Plat de résistance",
+                "Choix1" : "Saumon grillé, fondant de poireaux, beurre blanc à l'aneth",
+                "Choix2" : "Suprême de volaille demi manchon, piqué au Parmesan, glace de viande aux cipollinis et Pinot Grigio",
+                "Choix3" : "Orgetto au lait de courge butternut, kale, dés de courge rôties, oignons caramélisés et noisettes torréfiées",
+                "AccompagnementTitle" : "Accompagnement :",
+                "Accompagnement1":"Pommes de terres Gabrielle rôties à la moutarde et au parmesan",
+                "Accompagnement2":"Meli-Melo de légumes de saison "
+            },
+            "Remarque1" : "Noter qu'un verre de vin par personne est inclus dans le menu et que toutes autres consommations alcoolisées seront payantes.",
+            "Remarque2" : "Un menu est disponible pour les enfants, veuillez préciser un mois avant."
+        }
+    },
+    "BridesmaidGroosmen": {
+        "Title": "Les visages à repérer",
+        "Tom": {
+                "Name": "Tom",
+                "Role": "Le Maître de Cérémonie",
+                "FirstParagraph": "Tom a rencontré Céline par hasard sur une plage à Ontario en 2021. Ils sont ami.e.s depuis!",
+                "SecondParagraph": "Tom aime faire la fête, il fait de très bonnes crêpes and boit du pastis (c’est son côté français). Il sera le marieur, en Français et en Anglais, c’est un bébé bilingue !"
+            },
+        "Estelle": {
+                "Name": "Estelle",
+                "Role": "Demoiselle d'honneur",
+                "FirstParagraph": "Estelle connait Vincent depuis 2017. Ils sont comme une famille ensemble...",
+                "SecondParagraph": "Mais elle sera la demoiselle d’honneur de Celine :) Car elle est aussi amie avec la mariée! Elle est assertive et a un sens du leadership aigu! C’est cela qu’on aime <3"
+        },
+        "BrideSide": {
+            "BrideSideTitle": "Du côté de la mariée",
+            "Delphine": {
+                "Name": "Delphine",
+                "FirstParagraph": "Delphine est la petite soeur de Céline. ",
+                "SecondParagraph": "Non elles ne sont pas jumelles même si elles mangent pareil, s'habillent pareil et parlent avec la même voix (l'une a un accent belge et l'autre québécois). Delphine aime profiter de la vie, et se laisser porter par le courant !"
+            },
+            "Benjamin": {
+                "Name": "Benjamin",
+                "FirstParagraph": "Benjamin est l’ancien colocataire de Celine.",
+                "SecondParagraph": "Il a toujours des histoires amusantes à raconter et on peut compter sur lui pour mettre l’ambiance ! "
+            },
+            "Joris": {
+                "Name": "Joris",
+                "FirstParagraph": "Joris a oublié qu’il était le garçon d'honneur de Celine.",
+                "SecondParagraph": "Mais c’ est pas grave , on aime son oreille attentive et son sens de l'esthétique."
+            },
+            "Flavie J": {
+                "Name": "Flavie J",
+                "FirstParagraph": "Bien qu’elle soit d'abord l’amie de Vincent, c’est du côté de Celine qu'elle fera l’honneur d'être présente !",
+                "SecondParagraph": "En effet, Flavie est une personne curieuse, sensible et pleine d’ imagination ! Un atout !"
+            },
+            "Flavie B": {
+                "Name": "Flavie B",
+                "FirstParagraph": "Flavie est la personne qui connait Celine le plus longtemps !",
+                "SecondParagraph": "Elles se sont connues à un afterwork Polytech et sont inséparables depuis ! Elle est toujours de bons conseils :)"
+            }
+        },
+        "GroomSide": {
+            "GroomSideTitle": "Du côté du marié",
+            "Cecile": {
+                "Name": "Cécile",
+                "FirstParagraph": "Cécile est la petite soeur de Vincent.",
+                "SecondParagraph": "Dotée d’une grande répartie, cette sportive sait ce qu’elle veut dans la vie. En même temps, c’est la seule fille dans une famille de 4 garçons, on l'admire pour ça !"
+            },
+            "Pierre": {
+                "Name": "Pierre",
+                "FirstParagraph": "Pierre a connu Vincent dans ses pires moments c’est à dire la dernière année d’université.",
+                "SecondParagraph": "Fin gourmet, il est toujours partant pour un vin et fromage. "
+            },
+            "Joseph": {
+                "Name": "Joseph",
+                "FirstParagraph": "Il est plus connu sous le nom d’Adibou sur la scene du E-sport est l’ami de Vincent depuis 10 ans. ",
+                "SecondParagraph": "Fidèle allié dans la vie et dans les jeux vidéos, il est toujours disponible pour donner un coup de main !"
+            },
+            "Basile": {
+                "Name": "Basile",
+                "FirstParagraph": "Basile c’est l'atout humour de cette équipe !",
+                "SecondParagraph": "Il a toujours le sourire et est un ami très présent et affectueux ! Vous le reconnaîtrez à son rire communicatif !"
+            },
+            "Melina": {
+                "Name": "Melina",
+                "FirstParagraph": "Cette passionnée de musique n’a pas la langue dans sa poche !",
+                "SecondParagraph": "D'ailleurs si vous êtes chanceux, elle pourrait pousser la chansonnette ! Melina est une amie de Vincent, mais aussi sa collègue !"
+            }
+        },
+        "Photographes" : {
+            "PhotographesTitle" : "Les Photographes",
+            "Julia" :
+            {
+                "Name" : "Julia",
+                "FirstParagraph" : "Julia est spécialisée dans les portraits en pleine nature !",
+                "SecondParagraph" : "Elle saura capturer l’ambiance festive et l’ amour dans l’air !"
+            },
+            "Vi" :
+            {
+                "Name" : "Vi",
+                "FirstParagraph" : "Vi est une personne tres creative et avec un bon sens de l'esthétique.",
+                "SecondParagraph" : "Elle pourra mettre en avant ses talents de photographe !"
+            },
+            "Audrey" :
+            {
+                "Name" : "Audrey",
+                "FirstParagraph" : "Audrey est bien connue pour ses vlogs et montage vidéo.",
+                "SecondParagraph" : "Elle sera parfaite pour mettre en image cette belle soirée !",
+                "ThirdParagraph" : "Si vous n’avez pas encore écouté la délicieuse voix d’ Audrey, préparez vous à frissonner ! Elle nous prépare une représentation à couper le souffle !"
+            }
+        },
+        "MusiqueActivites" : {
+            "Title" : "Musique & Activités",
+            "Audrey" :
+            {
+                "Name" : "Audrey",
+                "Role" : "Chanteuse"
+            },
+            "Animation" :
+            {
+                "Name" : "Pierre et Estelle",
+                "Role" : "Animation"
+            },
+            "DJ" :
+            {
+                "Name" : "DJ Rim et DJ Meglennial",
+                "Role" : "Musique"
+            },
+            "SonLumieres" :
+            {
+                "Name" : "Mélina et Rim",
+                "Role" : "Son et lumières"
+            }
+        },
+        "Autres" :
+        {
+            "Title" : "Autres",
+            "RSS" :
+            {
+                "Name" : "Flavie B et Julia",
+                "Role" : "Responsable Santé & Sécurité"
+            },
+            "Gateau" :
+            {
+                "Name" : "Annie",
+                "Role" : "Gâteau",
+                "FirstParagraph" : "Ceux qui n'ont jamais goûté les pâtisseries d'Annie passe à côté de leur vie !",
+                "SecondParagraph" : "Tous mes gateaux d’ anniversaire sont faits par Annie maintenant ! Vous pourrez la complimenter à chaque bouchée !"
+            },
+            "SonLumieres" :
+            {
+                "Name" : "Melina et Rama",
+                "Role" : "Gâteau"
+            },
+            "Site" :
+            {
+                "Name" : "Clémence",
+                "Role" : "Site web",
+                "FirstParagraph" : "Ce site ne serait pas né sans l’aide précieuse de Clémence ! Comme vous le voyez, elle est douée !",
+                "SecondParagraph" : "D’ailleurs c’ est aussi son métier, alors si vous cherchez à recruter, n'hésitez pas à lui faire signe !"
+            }
+        }
+    },
+    "Transport": {
+        "Voiture ":
+        {
+            "Title" : "En voiture",
+            "Description" : "Il y a un parking gratuit sur le site",
+            "Avertissement" : "N'oubliez pas de désigner un conducteur qui restera sobre. Puisque celui qui conduit, c'est celui qui ne boit pas !"
+        },
+        "Métro":
+        {
+            "Title" : "En métro",
+            "Description" : "La station la plus proche est Montmorency sur la ligne orange. Vous pouvez ensuite prendre un Uber jusqu’au Château (12 minutes) ou demandez à quelqu'un qui a une voiture de vous chercher :)  "
+        }
+    },
+    "RSVP": {
+        "Title" : "Réservez la date",
+        "Description" : "Nous avons fait le choix de faire une fête avec de la bonne bouffe, du bon vin et surtout beaucoup d’ amis ! On serait plus qu'heureux de vous compter parmi nous !",
+        "Reservation" :
+        {
+            "Etape1" :
+            {
+                "NumeroEtape" : "Etape 1 ",
+                "Title" : "Confirmer ma venue",
+                "Description" : "S'il vous plaît, si vous souhaitez célébrer avec nous notre union, veuillez renseigner les informations ci-dessous. A noter que si vous n'avez pas encore choisi votre repas, les choix sont disponibles dans l'onglet ",
+                "Bouton" : "Je confirme officiellement ma venue"
+            },
+            "Etape2" :
+            {
+                "NumeroEtape" : "Etape 2 ",
+                "Title" : "Préparer ma venue",
+                "FirstParagraph" : "Une tenue classe et distinguée est recommandée car vous êtes conviés à un mariage :)",
+                "SecondParagraph" : "Vous pouvez porter n’importe quelle couleur, excepté le blanc, sauf si vous désirez épouser Vincent. Privilégiez les couleurs pêche, rose poudré, lavande et bleu bébé.",
+                "ThirdParagraph" : "Vous pouvez porter des motifs, surtout si c’est des fleurs !"
+                
+            },
+            "Etape3" :
+            {
+                "NumeroEtape" : "Etape 3 ",
+                "Title" : "Envoyer une participation financière",
+                "Description" : "Nous demandons une participation financière à la place de cadeaux, afin de nous aider à payer les frais du mariage.",
+                "Remarque" : "Si vous ne savez pas combien donner, vous pouvez vous adresser directement à la Demoiselle d'honneur Estelle ou au marié.",
+                "Bouton1" : "J'envoie ma participation financière par Interac",
+                "MailCeline" : "khceline1@gmail.com",
+                "Bouton2" : "J'envoie ma participation par PayPal"
+            }
+        }
+    },
+    "FAQ": {
+        "InfoImportant" :
+        {
+            "Title" : "Informations importantes",
+            "Description" : "Alcool et nourritures extérieurs interdit dans l’enceinte de l'établissement et sur le stationnement. Amende entre 1 000 et 10 000 $, on vous laisse assumer !",
+            "Remarque" : "Nous sommes très heureux de fêter avec vous et nous savons que parfois avec l'euphorie, il peut y avoir des débordements. Nous comptons sur vous pour être responsable ( eh oui nous sommes des adultes maintenant !) et respectueux !"
+        },
+        "Photographie":
+        {
+            "Question" : "Y aura t-il possibilité de prendre des photos ?",
+            "Description" : "Des séances photos seront organisées avec les mariés pour immortaliser le moment.",
+            "Indication" : "En tant qu'invité, des QR Code seront affichés pour que vous puissiez partager les photos et vidéos prises durant le mariage.",
+            "Remarque" : "Il est demandé de ne pas poster de photos/vidéos de la mariée sur les reseaux sociaux. Vous pouvez bien sur poster des photos de vous mêmes ou de vos amis."
+        },
+        "Questions":
+        {
+            "Question" : "Vous avez une question ou une suggestion ?",
+            "Description" : "Vous pouvez contacter Estelle pour plus d'informations",
+            "Remarque" : "Notez que les mariés ne seront pas disponibles le jour du mariage pour répondre aux questions. Vous pourrez vous adresser directement à Estelle, la Demoiselle d'honneur."
+        }
+    }
+}

@@ -1,0 +1,192 @@
+/* RSVP */
+
+/** General **/
+.RSVP{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.RSVP__title{
+    font-size: 2.5rem;
+    font-family: 'Over the Rainbow', cursive;
+    color: #CD7E91;
+    font-weight: 600;
+}
+.RSVP__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.RSVP__step{
+    display: none;
+}
+.step--active{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+}
+.step__title{
+    font-size: 1.5rem;
+    margin: 1rem;
+    font-family: 'Poppins', sans-serif;
+    color: #A196CF;
+    font-weight: 600;
+    text-decoration: underline dotted #CD7E91;
+}
+.step__description{
+    font-family: 'Montserrat', sans-serif;
+    color: #202122;
+    margin: 1rem;
+}
+.step__button{
+    
+    max-width: 200px;
+    padding: 20px;
+    border-radius: 5%;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: 20px;
+    text-align: center;
+    transition-duration: 0.5s;
+    color: #CD7E91;
+    background-color: #fff;
+    border: 2px dashed #CD7E91;
+}
+.step__button:hover{
+    transition-duration: 0.5s;
+    color: #fff;
+    background-color: #eecbd3;
+
+}
+.RSVP__mail{
+    color: #A196CF;
+    font-weight: 900;
+    margin-top: 10px;
+}
+.step__img{
+  max-height: 15%;
+  max-width : 80%;
+  margin-top: 10px;
+}
+/**Brouillon**/
+.RSVP__venue-form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.inactive{
+  display: none;
+}
+
+/** Progress Bar **/
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+:root {
+    --background-color: #eeeeee;
+    --light-grey: #c4c1c1;
+  }
+  
+  .progress-container {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-bottom: 30px;
+    max-width: 100%;
+    width: 350px;
+    font-family: "Poppins", sans-serif;
+    padding:1rem 0;
+    padding-top: 2rem;
+    border-radius: 20px;
+  }
+  
+  .progress-container::before {
+    content: "";
+    background-color: var(--light-grey);
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    height: 8px;
+    width: 100%;
+    z-index: -1;
+    border-radius: 20px;
+  }
+  
+  .progress-bar-fill {
+    background-color: #A196CF;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    height: 8px;
+    width: 0%;
+    z-index: -1;
+    transition: 0.4s ease;
+    border-radius: 20px;
+  }
+  .circle .caption {
+    font-size: 0.8rem;
+    font-weight: bolder;
+    font-family: "Poppins", sans-serif;
+    color: #A196CF;
+    margin-top: 50px;
+  }
+  
+  .circle {
+    background: var(--light-grey);
+    color: var(--light-grey);
+    transform: translateY(-50%);
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid var(--light-grey);
+    transition: 0.4s ease;
+  }
+  
+  .circle.active {
+    border-color: #A196CF;
+    background-color: #fff;
+    color: #A196CF;
+    scale: 1.1;
+  }
+  .btn {
+    background: #A196CF;
+    color: #fff;
+    border: 0;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    padding: 8px 30px;
+    margin: 5px;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .btn:active {
+    transform: scale(0.9);
+  }
+  
+  .btn:focus {
+    outline: 0;
+  }
+  
+  .btn:disabled {
+    background-color: var(--light-grey);
+    cursor: not-allowed;
+  }
+  
+  @media only screen and (max-width: 400px) {
+    .container {
+      width: 85%;
+    }
+  }
+  
