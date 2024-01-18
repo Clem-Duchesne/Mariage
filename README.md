@@ -6,3 +6,5 @@ Les technologies utilisées sont :
 - React
 - HTML/CSS
 - JSON
+
+Ce projet est encore en cours de développement... 
